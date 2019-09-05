@@ -1,5 +1,3 @@
-import javaposse.jobdsl.Job
-
 def folderName = "Nuelleken"
 folder(folderName)
 
